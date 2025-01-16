@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿using System.Numerics;
+using UnityEngine;
+using Vector3 = UnityEngine.Vector3;
 
 namespace BossRushJam.Scripts
 {
@@ -19,13 +21,15 @@ namespace BossRushJam.Scripts
         public void MoveRight()
         {
             _stepCount++;
-            transform.Rotate(0,0,-_stepAngle);
+            LeanTween.rotateAround(gameObject,Vector3.forward, -_stepAngle,0.1f);
+            //transform.Rotate(0,0,-_stepAngle);
         }
 
         public void MoveLeft()
         {
             _stepCount--;
-            transform.Rotate(0,0,_stepAngle);
+            LeanTween.rotateAround(gameObject,Vector3.forward, _stepAngle,0.1f);
+            //transform.Rotate(0,0,_stepAngle);
         }
 
         public void BeatMissed()
