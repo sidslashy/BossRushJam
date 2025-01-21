@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: d93378f7b4e974b44a8a04685833c7e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2033246670138262715
+    second: Demon_Boss_Sprite0300_0
+  - first:
+      213: 887383285710668528
+    second: Demon_Boss_Sprite0300_1
+  - first:
+      213: 6140338737654742324
+    second: Demon_Boss_Sprite0300_2
+  - first:
+      213: -6828390985244284886
+    second: Demon_Boss_Sprite0300_3
+  - first:
+      213: -5247113371106618025
+    second: Demon_Boss_Sprite0300_4
+  - first:
+      213: 6158097317853935752
+    second: Demon_Boss_Sprite0300_5
+  - first:
+      213: 6662023164334143205
+    second: Demon_Boss_Sprite0300_6
+  - first:
+      213: 7409633045795845898
+    second: Demon_Boss_Sprite0300_7
+  - first:
+      213: 3086970923829253397
+    second: Demon_Boss_Sprite0300_8
+  - first:
+      213: 9171130588492196453
+    second: Demon_Boss_Sprite0300_9
+  - first:
+      213: 487673655092208448
+    second: Demon_Boss_Sprite0300_10
+  - first:
+      213: -8143460230036963953
+    second: Demon_Boss_Sprite0300_11
+  - first:
+      213: -794407018164817977
+    second: Demon_Boss_Sprite0300_12
+  - first:
+      213: -6686495192490879169
+    second: Demon_Boss_Sprite0300_13
+  - first:
+      213: -6145197254422178232
+    second: Demon_Boss_Sprite0300_14
+  - first:
+      213: 855365243558348079
+    second: Demon_Boss_Sprite0300_15
+  - first:
+      213: 6712994594879969528
+    second: Demon_Boss_Sprite0300_16
+  - first:
+      213: 8079233594972583184
+    second: Demon_Boss_Sprite0300_17
+  - first:
+      213: 5812616231935729679
+    second: Demon_Boss_Sprite0300_18
+  - first:
+      213: -4013856681797993089
+    second: Demon_Boss_Sprite0300_19
+  - first:
+      213: -5743193131819914241
+    second: Demon_Boss_Sprite0300_20
+  - first:
+      213: 4549316956320211749
+    second: Demon_Boss_Sprite0300_21
+  - first:
+      213: -4572666166658819067
+    second: Demon_Boss_Sprite0300_22
+  - first:
+      213: -2491882858507001432
+    second: Demon_Boss_Sprite0300_23
+  - first:
+      213: -5974654857409116265
+    second: Demon_Boss_Sprite0300_24
+  - first:
+      213: 8926659908136709686
+    second: Demon_Boss_Sprite0300_25
+  - first:
+      213: -96470109261102844
+    second: Demon_Boss_Sprite0300_26
+  - first:
+      213: -1500684272897841712
+    second: Demon_Boss_Sprite0300_27
+  - first:
+      213: -5926451063251959277
+    second: Demon_Boss_Sprite0300_28
+  - first:
+      213: -5532529497925324313
+    second: Demon_Boss_Sprite0300_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bb9a51de478c3e0800000000000000
+      internalID: -2033246670138262715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 7
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f24764956e905c00800000000000000
+      internalID: 887383285710668528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 7
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d3b7a8c8dd63550800000000000000
+      internalID: 6140338737654742324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 7
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28e809c39eac31a0800000000000000
+      internalID: -6828390985244284886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 7
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755dcfa70328e27b0800000000000000
+      internalID: -5247113371106618025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 7
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88838f232e4f57550800000000000000
+      internalID: 6158097317853935752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 7
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e67f8365c2447c50800000000000000
+      internalID: 6662023164334143205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 7
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0738aa4ffd44d660800000000000000
+      internalID: 7409633045795845898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_8
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 7
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5155dc223bf17da20800000000000000
+      internalID: 3086970923829253397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_9
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 7
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aebc3fda6664f70800000000000000
+      internalID: 9171130588492196453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_10
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 7
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04366120b9094c600800000000000000
+      internalID: 487673655092208448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_11
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 7
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d3022111e9cfe80800000000000000
+      internalID: -8143460230036963953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_12
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 7
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf6533a603b9f4f0800000000000000
+      internalID: -794407018164817977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_13
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 7
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37593b8c0cc433a0800000000000000
+      internalID: -6686495192490879169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_14
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 7
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846d57fd7afd7baa0800000000000000
+      internalID: -6145197254422178232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_15
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 7
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25c287382ededb00800000000000000
+      internalID: 855365243558348079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_16
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 7
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f810fe5409592d50800000000000000
+      internalID: 6712994594879969528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_17
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 7
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0153eb526243f1070800000000000000
+      internalID: 8079233594972583184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_18
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 7
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00e2389aaf8aa050800000000000000
+      internalID: 5812616231935729679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_19
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 7
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d3a1e3d9aeb48c0800000000000000
+      internalID: -4013856681797993089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_20
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 7
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb296d76441c40b0800000000000000
+      internalID: -5743193131819914241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_21
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 7
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523a0202bab622f30800000000000000
+      internalID: 4549316956320211749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_22
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 7
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c9ad33950aa80c0800000000000000
+      internalID: -4572666166658819067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_23
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 7
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a12ec42ebd0b6dd0800000000000000
+      internalID: -2491882858507001432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_24
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 7
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7974190ff03c51da0800000000000000
+      internalID: -5974654857409116265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_25
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 7
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ea53714edd1eb70800000000000000
+      internalID: 8926659908136709686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_26
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 7
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4018c0e52f449aef0800000000000000
+      internalID: -96470109261102844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_27
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 7
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5a8e1da9f7c2be0800000000000000
+      internalID: -1500684272897841712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_28
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 7
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312812c582401cda0800000000000000
+      internalID: -5926451063251959277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon_Boss_Sprite0300_29
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 7
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e17ac6fbb18833b0800000000000000
+      internalID: -5532529497925324313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b44de5142c5309947a19f2ffa4b87ba0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Demon_Boss_Sprite0300_0: -2033246670138262715
+      Demon_Boss_Sprite0300_1: 887383285710668528
+      Demon_Boss_Sprite0300_10: 487673655092208448
+      Demon_Boss_Sprite0300_11: -8143460230036963953
+      Demon_Boss_Sprite0300_12: -794407018164817977
+      Demon_Boss_Sprite0300_13: -6686495192490879169
+      Demon_Boss_Sprite0300_14: -6145197254422178232
+      Demon_Boss_Sprite0300_15: 855365243558348079
+      Demon_Boss_Sprite0300_16: 6712994594879969528
+      Demon_Boss_Sprite0300_17: 8079233594972583184
+      Demon_Boss_Sprite0300_18: 5812616231935729679
+      Demon_Boss_Sprite0300_19: -4013856681797993089
+      Demon_Boss_Sprite0300_2: 6140338737654742324
+      Demon_Boss_Sprite0300_20: -5743193131819914241
+      Demon_Boss_Sprite0300_21: 4549316956320211749
+      Demon_Boss_Sprite0300_22: -4572666166658819067
+      Demon_Boss_Sprite0300_23: -2491882858507001432
+      Demon_Boss_Sprite0300_24: -5974654857409116265
+      Demon_Boss_Sprite0300_25: 8926659908136709686
+      Demon_Boss_Sprite0300_26: -96470109261102844
+      Demon_Boss_Sprite0300_27: -1500684272897841712
+      Demon_Boss_Sprite0300_28: -5926451063251959277
+      Demon_Boss_Sprite0300_29: -5532529497925324313
+      Demon_Boss_Sprite0300_3: -6828390985244284886
+      Demon_Boss_Sprite0300_4: -5247113371106618025
+      Demon_Boss_Sprite0300_5: 6158097317853935752
+      Demon_Boss_Sprite0300_6: 6662023164334143205
+      Demon_Boss_Sprite0300_7: 7409633045795845898
+      Demon_Boss_Sprite0300_8: 3086970923829253397
+      Demon_Boss_Sprite0300_9: 9171130588492196453
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
