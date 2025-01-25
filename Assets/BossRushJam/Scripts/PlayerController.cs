@@ -29,6 +29,7 @@ namespace BossRushJam.Scripts
             if (CheckBeatElapsedTime())
             {
                 _lastAction?.Invoke();
+                _lastAction = null;
                 _isBeatChecked = true;
             }
             
@@ -41,12 +42,15 @@ namespace BossRushJam.Scripts
                 if (CheckBeatElapsedTime())
                 {
                     _lastAction?.Invoke();
+                    _lastAction = null;
                 }
                 else
                 {
                     //Debug.Log($"Time Elapsed: {Mathf.Abs(_lastBeatTime - _lastActionTriggerTime)}");
                     Debug.Log("Beat Missed");
                     beatMissed.Invoke();
+                    _lastAction?.Invoke();
+                    _lastAction = null;
                 }
 
                 _isBeatChecked = true;
@@ -74,8 +78,20 @@ namespace BossRushJam.Scripts
 
         private void CheckAndPerformAction(Action action)
         {
-            _lastAction = action;
-            _lastActionTriggerTime = Time.time;
+            if (_lastAction != null)
+            {
+                //_lastAction?.Invoke();
+                _lastAction = null;
+                Debug.Log("Beat Missed");
+                beatMissed.Invoke();
+            }
+            else
+            {
+                _lastAction = action;
+                _lastActionTriggerTime = Time.time;
+            }
+
+
         }
         
         private void PerformAttack()
